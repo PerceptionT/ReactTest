@@ -1,5 +1,7 @@
 # ReactTest
 
+Below is the defination for react practical test. We have also attached desing reference of below defination.
+
 ## Login Screen
  ``` First Page should be login screen. After login below page will be displayed. ```
  
