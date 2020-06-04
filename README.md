@@ -15,7 +15,7 @@ Also add search bar on top of list and add functionality of local search.
 ```
 For Login Use below Api:-
 
-```Api : - https://wwwdev.lugelo.com/api/v0/login/
+Api : - https://wwwdev.lugelo.com/api/v0/login/
 Sample Payload :-
 var payload = {
   email: "aamir@perceptionsystem.com",
